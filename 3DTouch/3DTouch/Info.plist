@@ -28,6 +28,27 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutitemType</key>
+			<string>com.Joyce.touch</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Search</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>Search Subtitle</string>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIaApplicationShortcutitemTypeSearch</string>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string></string>
+			<key>UIApplicationShortcutItemUserInfo</key>
+			<string></string>
+		</dict>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
