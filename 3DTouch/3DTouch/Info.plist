@@ -31,23 +31,35 @@
 	<key>UIApplicationShortcutItems</key>
 	<array>
 		<dict>
-			<key>UIApplicationShortcutitemType</key>
-			<string>com.Joyce.touch</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>标识符1</string>
 			<key>UIApplicationShortcutItemTitle</key>
-			<string>Search</string>
-			<key>UIApplicationShortcutItemSubtitle</key>
-			<string>Search Subtitle</string>
+			<string>按钮1</string>
 			<key>UIApplicationShortcutItemIconType</key>
-			<string>UIaApplicationShortcutitemTypeSearch</string>
-			<key>UIApplicationShortcutItemIconFile</key>
-			<string></string>
+			<string>UIApplicationShortcutIconTypeSearch</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>按钮1的子标题</string>
 			<key>UIApplicationShortcutItemUserInfo</key>
-			<string></string>
+			<dict>
+				<key>key1</key>
+				<string>value1</string>
+			</dict>
 		</dict>
-		<string></string>
-		<string></string>
-		<string></string>
-		<string></string>
+		<dict>
+			<key>UIApplicationShortcutItemType</key>
+			<string>标识符2</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>按钮2</string>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIApplicationShortcutIconTypeLocation</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>按钮2的子标题</string>
+			<key>UIApplicationShortcutItemUserInfo</key>
+			<dict>
+				<key>key1</key>
+				<string>value1</string>
+			</dict>
+		</dict>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
