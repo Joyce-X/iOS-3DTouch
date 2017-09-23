@@ -108,9 +108,7 @@
     
 //    previewingContext.sourceRect = CGRectMake(550, 0, 10,10); 从哪里冒出来的
     
- 
-    
-    return vc;
+     return vc;
     
 
 }
